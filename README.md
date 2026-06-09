@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Entering my 3rd year as a Computer Science student at **Ben-Gurion University**.
+- 🎓 Finishing my 3rd year as a Computer Science student at **Ben-Gurion University**.
 - 🧠 Ex-Intelligence Officer in the IDF, experienced in analytical leadership and teamwork.
 - 🌍 Fluent in English & native Hebrew speaker.
 - 💼 Looking for opportunities in **Software Engineering** and related fields.
